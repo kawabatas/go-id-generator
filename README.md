@@ -23,7 +23,7 @@ go get github.com/kawabatas/go-id-generator
 # Usage
 
 Example code
-```
+```go
 package main
 
 import (
